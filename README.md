@@ -1,2 +1,2 @@
 # miniongorlovoi
-pon
+https://minion.github.io/minionGorlovoi
