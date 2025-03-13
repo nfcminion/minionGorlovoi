@@ -1,2 +1,2 @@
 # miniongorlovoi
-https://minion.github.io/minionGorlovoi
+https://nfcminion.github.io/minionGorlovoi/
